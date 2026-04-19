@@ -20,9 +20,6 @@ What you expected to happen.
 ## Actual behavior
 What actually happened.
 
-## Environment (MC version, mod version)
-- Minecraft version:
-- TinyMe version:
 
 ## Logs / screenshots
 Attach logs, crash reports, and/or screenshots if available.
