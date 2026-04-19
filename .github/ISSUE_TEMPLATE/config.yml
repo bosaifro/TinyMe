@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: TinyMe Issue Tracker Guidance
+    url: https://github.com/
+    about: Use the issue templates and include version details, reproduction steps, and logs.
